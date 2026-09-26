@@ -1,5 +1,5 @@
 # MiniMind
-Preschool Learning Mobile App (Frontend & UI)
+## | Preschool Learning Mobile App (Frontend & UI)
 
 An interactive, student-led educational mobile application designed to support early childhood learning through intuitive, engaging, and playful modules.
 
