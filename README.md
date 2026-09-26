@@ -10,7 +10,7 @@ Developed collaboratively within the **IEEE Student Branch** by a cross-function
 
 As the frontend and UI developer on the team, my primary focus included:
 - **UI/UX Design:** Wireframed, prototyped, and finalized responsive mobile screens and component variants in Figma.
-- **3D Mascot & Character Modeling:** Designed and modeled the application's 3D mascot from scratch using **Blender**, creating the character assets and visual identity for the children's learning screens.
+- **3D Mascot Modeling:** Designed and modeled the application's 3D mascot from scratch using **Blender**, creating the character assets and visual identity for the children's learning screens.
 - **Flutter Implementation:** Translated design specifications into reusable Flutter widgets, custom navigation flows, and interactive state management.
 - **Agile Collaboration:** Participated in sprint planning, feature ideation, and design alignment within the IEEE student development squad.
 
