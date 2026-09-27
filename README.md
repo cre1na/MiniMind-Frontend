@@ -2,7 +2,7 @@
 
 An interactive, student-led educational mobile application designed to support early childhood learning through intuitive, engaging, and playful modules.
 
-Developed collaboratively within the **IEEE Student Branch** by a cross-functional student engineering team. This repository showcases the **mobile frontend architecture, interactive UI components, and Figma-to-Flutter design implementations**.
+Developed collaboratively within the **IEEE Student Branch** by a cross-functional student team. This repository showcases the **mobile frontend architecture, interactive UI components, and Figma-to-Flutter design implementations**.
 
 ---
 
@@ -12,7 +12,7 @@ As the frontend and UI developer on the team, my primary focus included:
 - **UI/UX Design:** Wireframed, prototyped, and finalized responsive mobile screens and component variants in Figma.
 - **3D Mascot Modeling:** Designed and modeled the application's 3D mascot from scratch using **Blender**, creating the character assets and visual identity for the children's learning screens.
 - **Flutter Implementation:** Translated design specifications into reusable Flutter widgets, custom navigation flows, and interactive state management.
-- **Agile Collaboration:** Participated in sprint planning, feature ideation, and design alignment within the IEEE student development squad.
+- **Agile Collaboration:** Participated in sprint planning, feature ideation, and design alignment.
 
 ---
 
